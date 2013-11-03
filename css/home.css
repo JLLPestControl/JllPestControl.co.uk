@@ -5,7 +5,7 @@ a, a:hover { text-decoration:underline; color: #085808;}
 #header{text-align:center; height: 85px; padding-top: 5px; padding-bottom: 25px;}
 #header a.logo img{max-height:100%; margin-left:auto; margin-right:auto;}
 .full{}
-ul.bullet { list-style-type: square; padding:3em;}
+
 .banner{background: none; height: 301px; text-align: center; padding-top: 50px;}	
 .banner h1{text-shadow: 0 3px 3px rgba(0,0,1,.15);}
 .banner .btn { padding: 15px 25px;
@@ -53,6 +53,7 @@ ul.bullet { list-style-type: square; padding:3em;}
 	#details h3 span, #about h3 span{font-weight: 300;}
 	#details ul, #about ul{ margin-left: 0;}
 	#details li, #about li{list-style: none; line-height: 36px;}
+	ul.bullet { list-style-type: square; padding:2em;}
 
 	#midway, #local, #contact {text-align: center; padding: 25px; color: #fff; height:100%; position:relative; margin-bottom:35px;}
 	#midway, #local, #contact h2,h3{font-weight: 400;}
