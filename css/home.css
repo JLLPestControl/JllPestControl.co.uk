@@ -1,4 +1,4 @@
-body { background:white; width: 100%; height: 100%; font-family: 'Open Sans', 'Dosis', sans-serif; }
+body { background:white; width: 100%; height: 100%; font-family: 'Open Sans', Tahoma, Verdana, sans-serif; }
 h1 {	color:white; font-weight:300; margin:30px 0; }
 a, a:hover { text-decoration:none; color: #085808;}
 .green p{color: #000;}
@@ -55,8 +55,8 @@ a, a:hover { text-decoration:none; color: #085808;}
 
 	#midway, #local, #contact {text-align: center; padding: 25px; color: #fff; height:100%; position:relative; margin-bottom:35px;}
 	#midway, #local, #contact h2,h3{font-weight: 400;}
-	#midway, #local, #contact h2{color: #fff; margin-bottom: 35px;}
-
+	#midway h2, #local, h2{color: #fff; margin-bottom: 35px;}
+         #contact h2{color: #fff; margin-bottom: 0px;}
     #about .container { margin-bottom:35px;}
 
     #local a, #local a:hover { text-decoration:none; color: #fff; display:block;}
