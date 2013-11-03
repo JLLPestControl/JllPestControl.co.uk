@@ -53,8 +53,9 @@ a, a:hover { text-decoration:underline; color: #085808;}
 	#details h3 span, #about h3 span{font-weight: 300;}
 	#about ul{ margin-left: 0;}
 	#about li{list-style: none; line-height: 36px;}
-	#details ul.bullet { list-style-type: square; padding-left:4em; line-height: 36px;}
-	#details ul.bullet li {list-style-type:square; line-height: 36px;}
+	
+	#details ul { list-style-type: square; padding-left:2em; line-height: 36px;}
+	#details li {list-style-type:square; line-height: 36px;}
 
 	#midway, #local, #contact {text-align: center; padding: 25px; color: #fff; height:100%; position:relative; margin-bottom:35px;}
 	#midway, #local, #contact h2,h3{font-weight: 400;}
