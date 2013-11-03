@@ -53,7 +53,8 @@ a, a:hover { text-decoration:underline; color: #085808;}
 	#details h3 span, #about h3 span{font-weight: 300;}
 	#details ul, #about ul{ margin-left: 0;}
 	#details li, #about li{list-style: none; line-height: 36px;}
-	ul.bullet { list-style-type: square; padding:2em;}
+	ul.bullet { list-style-type: square; padding-left:4em;}
+	ul.bullet li {list-style-type:square;}
 
 	#midway, #local, #contact {text-align: center; padding: 25px; color: #fff; height:100%; position:relative; margin-bottom:35px;}
 	#midway, #local, #contact h2,h3{font-weight: 400;}
