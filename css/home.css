@@ -52,7 +52,7 @@ a, a:hover { text-decoration:underline; color: #085808;}
 	#details h3, #about h3{color: #000;}
 	#details h3 span, #about h3 span{font-weight: 300;}
 	#about ul{ margin-left: 0;}
-	#about li{list-style: none; line-height: 36px;}
+	#about li{list-style: none; line-height: 36px; text-align:left;}
 	
 	#details ul { list-style-type: square; padding-left:2em; line-height: 36px;}
 	#details li {list-style-type:square; line-height: 36px;}
