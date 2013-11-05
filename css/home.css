@@ -164,7 +164,7 @@ a, a:hover { text-decoration:underline; color: #085808;}
 	#header .btn{ margin-top: 8px;} 
 	.feature { float:none; padding:1em; margin:auto auto;}
 	ul, li { text-align:left; }
-	.number {display: table-cell; margin:auto auto; text-align:center;}
+	.number { margin:auto auto; text-align:center;}
 }
 
 
@@ -172,5 +172,5 @@ a, a:hover { text-decoration:underline; color: #085808;}
 .banner{height: 300px;}
 body{padding: 0;}
 .feature { float:none; padding:1em; margin:auto auto;}
-.number {display: table-cell; margin:auto auto; text-align:center;}
+.number {margin:auto auto; text-align:center;}
 }
