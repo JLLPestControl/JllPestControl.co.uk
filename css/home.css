@@ -165,6 +165,7 @@ a, a:hover { text-decoration:underline; color: #085808;}
 	.feature { float:none; padding:1em; margin:auto auto;}
 	ul, li { text-align:left; }
 	.number { margin:auto auto; text-align:center;}
+	#details .container h2 { text-align:left;}
 }
 
 
