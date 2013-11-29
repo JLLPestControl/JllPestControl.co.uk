@@ -1,10 +1,9 @@
 body { background:white; width: 100%; height: 100%; font-family: 'Open Sans', Tahoma, Verdana, sans-serif; }
 h1 {	color:white; font-weight:300; margin:30px 0; }
 a, a:hover { text-decoration:underline; color: #085808;}
-.green p{color: #000;}
+
 #header{text-align:center; height: 85px; padding-top: 5px; padding-bottom: 25px;}
 #header a.logo img{max-height:100%; margin-left:auto; margin-right:auto;}
-.full{}
 
 .banner{background: none; height: 301px; text-align: center; padding-top: 50px;}	
 .banner h1{text-shadow: 0 3px 3px rgba(0,0,1,.15);}
@@ -19,7 +18,7 @@ a, a:hover { text-decoration:underline; color: #085808;}
 
 .fa-3 { font-size:4em;}
 .green{background: rgba(29, 75, 36, 0.85);}
-
+.green p{color: #000;}
 .feature { float:right; padding:1em; }
 	
 	#details li a{color: #1d4b24; border-bottom: 1px dotted white; text-decoration: none; }
@@ -56,7 +55,7 @@ a.btn,  a.btn:hover {text-decoration:none}
 	#about li{list-style: none; line-height: 36px; text-align:left;}
 	
 	#details ul { list-style-type: square; padding-left:2em; line-height: 36px;}
-	#details li {list-style-type:square; line-height: 36px;}
+	#details li {list-style-type:square; line-height: 36px; text-align:left;}
 
 	#midway, #local, #contact {text-align: center; padding: 25px; color: #fff; height:100%; position:relative; margin-bottom:35px;}
 	#midway, #local, #contact h2,h3{font-weight: 400;}
